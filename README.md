@@ -17,7 +17,8 @@ This is a mini project made during the course IS1200 Computer Hardware Engineeri
  9. You should now be able to play Snake on your ChipKIT.
  
 ## About this project:
-This project was made during the summer of 2023.
+This project was made during the summer of 2023.  
+The code was written in Assembly and C.
 
 ## This project was made by:
 [Roy L.](https://github.com/ruisnake)  
