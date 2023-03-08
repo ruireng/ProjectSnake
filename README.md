@@ -13,7 +13,7 @@ This is a mini project made during the course IS1200 Computer Hardware Engineeri
  5. Run the MSYS shell and run the command `. opt/mcb32tools/environment` to enter the cross compiler.
  6. Change directory to the project folder.
  7. Run `make` to compile all of the files.
- 8. Install the code on the ChipKIT with `make install TTYDEV=/dev/ttySx`, where x is the COM number of the ChipKIT (Windows). *This step might be a bit tricky to pull off, so if you cannot find the COM number, a brute-forcing way could be to try* `make install TTYDEV=/dev/ttyS1`*,* `make install TTYDEV=/dev/ttyS2`*, and so on until the cross compiler recognizes the ChipKIT.*
+ 8. Install the code on the ChipKIT with `make install TTYDEV=/dev/ttySx`, where x is the COM number of the ChipKIT (Windows). *If you have trouble finding the COM number, a brute-forcing way could be to try* `make install TTYDEV=/dev/ttyS1`*,* `make install TTYDEV=/dev/ttyS2`*, and so on until the cross compiler recognizes the ChipKIT.*
  9. You should now be able to play Snake on your ChipKIT.
  
 ## About this project:
