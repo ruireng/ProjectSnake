@@ -1,4 +1,4 @@
-# IS1200 Computer Hardware Engineering - Mini Project: Snake
+# Snake
 <!-- This is a repository for a project in the course IS1200 Computer Hardware Engineering spring term 2022. The repository contains all the files necessary for the program "Snake" to be run on a UNO32 ChipKit. The program was developed with MCB32Tools and was written in C.
 
 This project was made by Roy L. and Erik S, with some collaborations with Mostafa A. Z. The credits are written as comments in the file mipslabwork.c. -->
@@ -17,6 +17,7 @@ This is a mini project made during the course IS1200 Computer Hardware Engineeri
  9. You should now be able to play Snake on your ChipKIT.
  
 ## About this project:
+Made during the course IS1200 Computer Hardware Engineering.  
 This project was made during the summer of 2023.  
 The code was written in Assembly and C.
 
